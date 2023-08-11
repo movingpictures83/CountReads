@@ -1,0 +1,2 @@
+Prefix plugins/CountReads/example/
+Plugin CountReads inputfile parameters.countreads.txt outputfile read_counts.csv

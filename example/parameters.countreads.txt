@@ -1,0 +1,2 @@
+samples	samples_metagen_full.txt
+samplesdir	/biorg/data/GulfWar/
